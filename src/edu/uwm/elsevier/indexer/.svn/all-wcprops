@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/indexer
+END
+ElsevierCitationIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/indexer/ElsevierCitationIndexer.java
+END
+ElsevierFullTextIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/indexer/ElsevierFullTextIndexer.java
+END
+ElsevierCitationIndexAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/indexer/ElsevierCitationIndexAccess.java
+END
+ElsevierIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/indexer/ElsevierIndexer.java
+END

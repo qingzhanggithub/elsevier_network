@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis
+END
+ConnectedComponentEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/ConnectedComponentEntry.java
+END
+InterDisipline.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/InterDisipline.java
+END
+AuthorOverYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/AuthorOverYear.java
+END
+DistributedAuthorAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/DistributedAuthorAnalysis.java
+END
+AuthorAnalysisMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/AuthorAnalysisMapper.java
+END
+TimeSliceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/TimeSliceEntity.java
+END
+CoAuthorNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/CoAuthorNetwork.java
+END
+MedlineAuthorAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/MedlineAuthorAnalysis.java
+END
+TimeSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/TimeSpan.java
+END
+AuthorAnalysisReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/AuthorAnalysisReducer.java
+END
+TimeSlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/TimeSlice.java
+END
+AuthorStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/AuthorStats.java
+END
+ValueEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/ValueEntity.java
+END
+AuthorYearSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/authoranalysis/AuthorYearSpan.java
+END

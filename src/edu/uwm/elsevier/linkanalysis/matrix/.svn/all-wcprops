@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix
+END
+ResultDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/ResultDisplay.java
+END
+Searcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/Searcher.java
+END
+AACMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/AACMatrix.java
+END
+AAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/AAC.java
+END
+AdjacentMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/AdjacentMatrix.java
+END
+SparseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/linkanalysis/matrix/SparseMatrix.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/prediction
+END
+PublicationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/PublicationAttribute.java
+END
+LinkPredictionBaseline.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/LinkPredictionBaseline.java
+END
+ClusteringCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/ClusteringCoefficient.java
+END
+RecurringFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/prediction/RecurringFeatureExtractor.java
+END
+SimpleFeatureRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/SimpleFeatureRun.java
+END
+Labeller.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/Labeller.java
+END
+SRWFeatureExtraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/prediction/SRWFeatureExtraction.java
+END
+AuthorshipEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/AuthorshipEdge.java
+END
+RunAuthorRichFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/RunAuthorRichFeature.java
+END
+SRWCollaborationGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/SRWCollaborationGraph.java
+END
+SimpleFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/prediction/SimpleFeatureExtractor.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/Edge.java
+END
+NegativePairRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/NegativePairRun.java
+END
+AdvancedFeatureExtraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier/prediction/AdvancedFeatureExtraction.java
+END
+FeatureEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/FeatureEntity.java
+END
+MLTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/MLTraining.java
+END
+RecurBaselineRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/RecurBaselineRun.java
+END
+AuthorshipEdgeFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/AuthorshipEdgeFeature.java
+END
+CoauthorJDBC.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/CoauthorJDBC.java
+END
+CoAuthorshipExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/CoAuthorshipExtractor.java
+END

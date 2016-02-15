@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/public/!svn/ver/313/qing/elsevier_network/lib
+END
+javacsv.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/javacsv.jar
+END
+weka.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/weka.jar
+END
+commons-math-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/commons-math-2.1.jar
+END
+lucene-core-3.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/lucene-core-3.5.0.jar
+END
+hadoop-core-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/hadoop-core-0.20.203.0.jar
+END
+mysql-connector-java-5.1.7-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/mysql-connector-java-5.1.7-bin.jar
+END
+articles_data7-10-2013.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/articles_data7-10-2013.jar
+END
+hadoop-0.21.0-index.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/hadoop-0.21.0-index.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/commons-lang-2.4.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/public/!svn/ver/313/qing/elsevier_network/lib/log4j-1.2.15.jar
+END

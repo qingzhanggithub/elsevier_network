@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation
+END
+InterAnnotatorAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/InterAnnotatorAgreement.java
+END
+TableSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/TableSampler.java
+END
+RecallSampleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/RecallSampleGenerator.java
+END
+Sampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/Sampler.java
+END
+SamplingLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/SamplingLogger.java
+END
+SurveyAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/SurveyAnalysis.java
+END
+FuzzyComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/evaluation/FuzzyComparison.java
+END

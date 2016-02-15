@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/public/!svn/ver/315/qing/elsevier_network/src/edu/uwm/elsevier
+END
+NetworkBuilderMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/NetworkBuilderMap.java
+END
+CitationNetworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationNetworkService.java
+END
+CitationMergerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationMergerReducer.java
+END
+CitationNetworkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationNetworkDAO.java
+END
+NetworkDBDrivenBuilderForRawCitationMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/NetworkDBDrivenBuilderForRawCitationMap.java
+END
+CitationNetworkDaoJdbcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationNetworkDaoJdbcImpl.java
+END
+CitationMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationMerger.java
+END
+ElsevierArticleMetaDataSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/ElsevierArticleMetaDataSearcher.java
+END
+MappingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/MappingStatus.java
+END
+NetworkBuilderLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/NetworkBuilderLogger.java
+END
+CitationSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationSearcher.java
+END
+DupDBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DupDBConnection.java
+END
+DatabaseSerivices.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DatabaseSerivices.java
+END
+ElsevierMedlineMappingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/ElsevierMedlineMappingStatus.java
+END
+BibComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/BibComparable.java
+END
+CitationNetworkBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationNetworkBuilder.java
+END
+CitationCitationMappingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationCitationMappingStatus.java
+END
+BFSCitationMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/BFSCitationMerger.java
+END
+BigConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/BigConstants.java
+END
+RawCitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/RawCitation.java
+END
+DistributedCitationMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DistributedCitationMerger.java
+END
+ITableNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/ITableNames.java
+END
+DistributedCitationNetworkBuilderForRawCitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DistributedCitationNetworkBuilderForRawCitation.java
+END
+ElsevierArticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/ElsevierArticle.java
+END
+BibCompareSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/BibCompareSimple.java
+END
+CitationMergerMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationMergerMap.java
+END
+DistributedDBDrivenCitationNetworkBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DistributedDBDrivenCitationNetworkBuilder.java
+END
+CitationArticleComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationArticleComparison.java
+END
+DistributedCitationNetworkBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/DistributedCitationNetworkBuilder.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/Configuration.java
+END
+CitationArticleMappingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/CitationArticleMappingStatus.java
+END
+NetworkDBDrivenBuilderMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/NetworkDBDrivenBuilderMap.java
+END

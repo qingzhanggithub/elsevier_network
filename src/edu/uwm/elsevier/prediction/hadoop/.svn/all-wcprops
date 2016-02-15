@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/hadoop
+END
+AuthorPairReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/hadoop/AuthorPairReducer.java
+END
+CollabPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/hadoop/CollabPair.java
+END
+AuthorPairMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/hadoop/AuthorPairMapper.java
+END
+DistributedAuthorPairFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/prediction/hadoop/DistributedAuthorPairFeatureExtractor.java
+END

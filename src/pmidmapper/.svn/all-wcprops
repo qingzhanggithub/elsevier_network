@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper
+END
+ElsevierPMComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/ElsevierPMComparison.java
+END
+DistributedElsevierMedlineMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/DistributedElsevierMedlineMapping.java
+END
+PMArticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/PMArticle.java
+END
+ElsevierMedlineMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/ElsevierMedlineMapper.java
+END
+ElsevierMedlineMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/ElsevierMedlineMap.java
+END
+ElsevierMedlineReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/ElsevierMedlineReducer.java
+END
+MedlineSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/MedlineSearcher.java
+END
+MapperLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/public/!svn/ver/313/qing/elsevier_network/src/pmidmapper/MapperLogger.java
+END

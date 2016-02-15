@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation
+END
+AuthorNameChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorNameChecker.java
+END
+MedlineSearcherForDSB.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/MedlineSearcherForDSB.java
+END
+AuthorDSBService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorDSBService.java
+END
+AuthorityDatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorityDatabaseConnection.java
+END
+AuthorityTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorityTool.java
+END
+AuthorDSBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorDSBDAO.java
+END
+VectorBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/VectorBuilder.java
+END
+AuthorVecInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorVecInfo.java
+END
+AuthorityEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorityEntity.java
+END
+AuthorDSBDAOJdbcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/AuthorDSBDAOJdbcImpl.java
+END
+Snowball.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/namedisambiguation/Snowball.java
+END

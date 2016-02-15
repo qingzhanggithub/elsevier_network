@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils
+END
+DBCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/DBCopier.java
+END
+CitationIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/CitationIndexTest.java
+END
+GoogleScholar.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/GoogleScholar.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/IOUtils.java
+END
+DBAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/DBAnalysis.java
+END
+DBChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/DBChecker.java
+END
+WekaTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/WekaTools.java
+END
+DBRetrieval.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/DBRetrieval.java
+END
+IndexAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/IndexAccess.java
+END
+GeneOntology.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/public/!svn/ver/313/qing/elsevier_network/src/edu/uwm/elsevier/utils/GeneOntology.java
+END
